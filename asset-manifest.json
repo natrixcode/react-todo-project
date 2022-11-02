@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/natrixcode/react-todo-project/static/css/main.fc20fb5d.css",
-    "main.js": "/natrixcode/react-todo-project/static/js/main.c51a5b94.js",
+    "main.js": "/natrixcode/react-todo-project/static/js/main.fae27034.js",
     "index.html": "/natrixcode/react-todo-project/index.html",
     "main.fc20fb5d.css.map": "/natrixcode/react-todo-project/static/css/main.fc20fb5d.css.map",
-    "main.c51a5b94.js.map": "/natrixcode/react-todo-project/static/js/main.c51a5b94.js.map"
+    "main.fae27034.js.map": "/natrixcode/react-todo-project/static/js/main.fae27034.js.map"
   },
   "entrypoints": [
     "static/css/main.fc20fb5d.css",
-    "static/js/main.c51a5b94.js"
+    "static/js/main.fae27034.js"
   ]
 }
