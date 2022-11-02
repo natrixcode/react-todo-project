@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-import { HashRouter as Router } from "react-router-dom";
+import { HashRouter, HashRouter as Router } from "react-router-dom";
 
 //component
 import TodoContainer from "./functionBased/components/TodoContainer";
