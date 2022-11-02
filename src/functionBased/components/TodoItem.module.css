@@ -1,0 +1,66 @@
+.item {
+  font-size: 1.2rem;
+  list-style-type: none;
+  padding: 17px 0px;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.checkbox {
+  margin-right: 15px;
+}
+
+.item button {
+  font-size: 13px;
+  background: #f1f3f4;
+  border: none;
+  cursor: pointer;
+  float: right;
+  outline: none;
+  border-radius: 100px;
+  height: 50px;
+  width: 50px;
+  margin: -10px 0 0 10px;
+}
+
+.textInput {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #dfdfdf;
+}
+
+.container {
+  display: flex;
+   flex-direction: row;
+   align-items: center;
+   justify-content: center;
+}
+.buttonTrue {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #000;
+  background-color: yellow;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.buttonFalse {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: red;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
